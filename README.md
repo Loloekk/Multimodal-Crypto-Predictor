@@ -2,7 +2,7 @@
 
 This project predicts short-term Bitcoin (BTCUSDT) price movements (Up, Down, Neutral) over a 6-hour horizon.
 
-We build and compare two models:
+I build and compare two models:
 1. **LSTM-only:** Baseline using only technical indicators (RSI, MACD, EMA, ATR).
 2. **Multimodal Model (LSTM + FinBERT):** Combines numerical market data with news sentiment.
 
